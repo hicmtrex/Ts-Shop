@@ -1,0 +1,15 @@
+@import '@webpixels/css';
+@import url('https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.4.0/font/bootstrap-icons.min.css');
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  /* background: #f6f9ff; */
+}
+
+.main {
+  min-height: 85.3vh;
+}
